@@ -1,8 +1,10 @@
 # UC Berkeley CS61B Spring 2017 - Data Structures
+Decided to audit this course in first year for fun.
+
 [Course page](http://datastructur.es/sp17/index.html)
 
 [See BearMaps Backend code](proj3)  
-[See HonkDB code](proj2)
+[See NiuDB code](proj2)
 
 ## Projects
 | Folder  | Title           |
